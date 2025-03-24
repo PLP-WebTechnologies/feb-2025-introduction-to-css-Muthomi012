@@ -1,0 +1,49 @@
+/* Apply background color and global font */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style the header */
+header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #0056b3;
+}
+
+/* Style the main title */
+.title {
+    font-size: 2rem;
+    font-family: 'Georgia', serif;
+}
+
+/* Paragraph styling using an ID */
+#intro {
+    font-size: 1.2rem;
+    margin: 20px;
+    padding: 10px;
+    border-left: 5px solid #007bff;
+}
+
+/* Style an image */
+.styled-image {
+    display: block;
+    width: 300px;
+    border: 5px solid #333;
+    margin: 20px auto;
+    padding: 10px;
+    background-color: white;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
